@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the python command to run your script
+python $PYFILE
