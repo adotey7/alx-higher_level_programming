@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python3
 
 # Use the python command to run your script
 python $PYFILE
